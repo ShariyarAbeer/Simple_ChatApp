@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "391513758142",
+    "firebase_url": "https://chatapps-d98a3.firebaseio.com",
+    "project_id": "chatapps-d98a3",
+    "storage_bucket": "chatapps-d98a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391513758142:android:7e387f8469d03486",
+        "android_client_info": {
+          "package_name": "com.abeer.chatapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391513758142-0ucmsv6cs8ct2pgsnmpip89qeisld2m0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abeer.chatapps",
+            "certificate_hash": "39d0cdeba0625568cbe2fc1774ebc870a58edc6d"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvEyBC0OZa8_nzVOpzTAeVPifRJAkKX4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391513758142-n25p81o7av3mako07k626jmk7p2rmhb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
